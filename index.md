@@ -1,5 +1,3 @@
-
-
 ## About me
 
 <img src="ntran.png" width=200>
