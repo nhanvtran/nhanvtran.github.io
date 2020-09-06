@@ -8,6 +8,14 @@ I am a high energy particle physics experimentalist at Fermilab.  I am intereste
 
 ### Research Interests
 
+   * Search for light (MeV-GeV scale) dark matter at the LDMX experiment; development of hadronic veto system
+
+   * Search for exotic hidden hadronic and diboson resonances at CMS
+
+   * Study of the Higgs boson properties via spin correlations and at very high momentum at CMS
+
+   * Development of fast electronics algorithms and hardware for LHC Phase-2 trigger applications
+
 ### Education and Professional Experience
 
 ### Full CV
